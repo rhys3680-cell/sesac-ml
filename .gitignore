@@ -12,3 +12,7 @@ wheels/
 
 # Scratch / experiments
 notebooks/test.ipynb
+notebooks/memo.ipynb
+
+# Datasets (re-downloadable from Kaggle)
+data/
